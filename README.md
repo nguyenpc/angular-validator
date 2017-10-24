@@ -1,2 +1,2 @@
 # sun-validation
-Lightweight, fast, and free validation directives for angularjs
+Lightweight, fast, and free validation directives for Angular
